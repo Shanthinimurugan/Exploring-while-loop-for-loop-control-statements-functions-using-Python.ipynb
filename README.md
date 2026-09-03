@@ -15,8 +15,6 @@ The project includes three practical tasks:
 
 ##  📌 Problem Statements
 
-The main objectives of this project are:
-
 - To understand the working of `while` and `for` loops in Python.  
 - To apply control statements such as `break`, `continue`, and `else`.  
 - To understand how the `range()` function can be used with `for` loops.  
