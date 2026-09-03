@@ -116,7 +116,7 @@ Overall, the project helped build a strong foundation in Python programming and 
 
 **Aspiring Data Analyst**
 
-**Skills:** Python | Data Structures | List Operations | Dictionary Operations | Set Operations | Conditional Operations 
+**Skills:** Python | Control Statements | while loop | for loop | User defined functions 
 
 ## 📄 License
 
@@ -127,7 +127,7 @@ This project is created for educational and assignment purposes only.
 I would like to thank:
 
 - **Entri Elevate Course Support** for providing guidance and learning resources throughout this project.
-- **Python Documentation** for valuable references and support in understanding Python syntax, string operations, and tuple concepts.
+- **Python Documentation** for valuable references and support in understanding Python syntax, while loop, for loop conditional statements and user defined functions.
 - **Google Colab** for providing an interactive environment to practice and execute Python code.
 
 
